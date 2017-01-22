@@ -9,5 +9,7 @@ command line basics: http://mac.appstorm.net/how-to/utilities-how-to/how-to-use-
 
 more thorough Unix tutorial: http://www.ee.surrey.ac.uk/Teaching/Unix/
 
+another set of helpful tutorials: https://quickleft.com/blog/command-line-tutorials-summary-what-s-next/
+
 sed and awk [with bonus Star Wars content]: https://quickleft.com/blog/command-line-tutorials-sed-awk/  
 
