@@ -5,7 +5,9 @@ The 'get_rap130_1hr.bash' script is all you need to run here.  It does require s
 
 If you're just getting started with learning the command line and *nix tools, here are a couple good introductory tutorials: 
 
-http://mac.appstorm.net/how-to/utilities-how-to/how-to-use-terminal-the-basics/
+command line basics: http://mac.appstorm.net/how-to/utilities-how-to/how-to-use-terminal-the-basics/
 
-http://www.ee.surrey.ac.uk/Teaching/Unix/
+more thorough Unix tutorial: http://www.ee.surrey.ac.uk/Teaching/Unix/
+
+sed and awk [with bonus Star Wars content]: https://quickleft.com/blog/command-line-tutorials-sed-awk/  
 
